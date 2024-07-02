@@ -1,0 +1,29 @@
+GET http://localhost:5000/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsIm5hbWUiOiJEaWV3YWF5IiwiZW1haWwiOiJEaWV3YXlAZ21haWwuY29tIiwiaWF0IjoxNzE5OTA0NzQzLCJleHAiOjE3MTk5MDQ3NjN9.RG9v12NkgSVpSZ7jr2cHNVNpDdFY_IbjzVo4XNUAMeA
+
+
+###
+POST http://localhost:5000/users
+Content-Type: application/json
+
+{
+    "name": "Diewaay2",
+    "email": "Dieway2@gmail.com",
+    "password": "1234567890",
+    "confPassword" : "1234567890"
+}
+
+###
+POST http://localhost:5000/Login
+Content-Type: application/json
+
+{
+    "email": "Dieway@gmail.com",
+    "password": "1234567890"
+}
+
+###
+DELETE http://localhost:5000/logout
+
+###
+GET http://localhost:5000/token

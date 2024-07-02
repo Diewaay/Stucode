@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Learn Hmtl",
+    "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713412460~exp=1713416060~hmac=e0a5bc0bb43cbd45bbbf92f49385d9a0f0fa45cdf3f2cc24ccd868824431a0bf&w=996"
+  },
+  {
+    "id": 2,
+    "name": "Learn Css",
+    "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713412460~exp=1713416060~hmac=e0a5bc0bb43cbd45bbbf92f49385d9a0f0fa45cdf3f2cc24ccd868824431a0bf&w=996"
+  },
+  {
+    "id": 3,
+    "name": "Learn Javascript",
+    "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713412460~exp=1713416060~hmac=e0a5bc0bb43cbd45bbbf92f49385d9a0f0fa45cdf3f2cc24ccd868824431a0bf&w=996"
+  },
+  {
+    "id": 4,
+    "name": "Learn Java",
+    "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713412460~exp=1713416060~hmac=e0a5bc0bb43cbd45bbbf92f49385d9a0f0fa45cdf3f2cc24ccd868824431a0bf&w=996"
+  },
+  {
+    "id": 5,
+    "name": "Learn Php",
+    "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713412460~exp=1713416060~hmac=e0a5bc0bb43cbd45bbbf92f49385d9a0f0fa45cdf3f2cc24ccd868824431a0bf&w=996"
+  },
+  {
+    "id": 6,
+    "name": "Learn Node",
+    "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713412460~exp=1713416060~hmac=e0a5bc0bb43cbd45bbbf92f49385d9a0f0fa45cdf3f2cc24ccd868824431a0bf&w=996"
+  },
+  {
+    "id": 7,
+    "name": "Learn Mysql",
+    "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713412460~exp=1713416060~hmac=e0a5bc0bb43cbd45bbbf92f49385d9a0f0fa45cdf3f2cc24ccd868824431a0bf&w=996"
+  },
+  {
+    "id": 8,
+    "name": "Learn Express",
+    "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713412460~exp=1713416060~hmac=e0a5bc0bb43cbd45bbbf92f49385d9a0f0fa45cdf3f2cc24ccd868824431a0bf&w=996"
+  },
+  {
+    "id": 9,
+    "name": "Learn React",
+    "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713412460~exp=1713416060~hmac=e0a5bc0bb43cbd45bbbf92f49385d9a0f0fa45cdf3f2cc24ccd868824431a0bf&w=996"
+  },
+  {
+    "id": 10,
+    "name": "Learn Laravel",
+    "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713412460~exp=1713416060~hmac=e0a5bc0bb43cbd45bbbf92f49385d9a0f0fa45cdf3f2cc24ccd868824431a0bf&w=996"
+  },
+  {
+    "id": 11,
+    "name": "Learn MongoDb",
+    "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713412460~exp=1713416060~hmac=e0a5bc0bb43cbd45bbbf92f49385d9a0f0fa45cdf3f2cc24ccd868824431a0bf&w=996"
+  }
+]
